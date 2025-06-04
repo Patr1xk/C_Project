@@ -1,2 +1,2 @@
-# C_Project
+# Hospital Management System
 Hospital Management System
